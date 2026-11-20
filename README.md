@@ -81,3 +81,6 @@ El sistema incluye las siguientes validaciones:
 
 ### Salir del sistema
 ![Salir](Capturass/Salir.png)
+
+![Limpiar](Capturass/Limpiar.png)
+
