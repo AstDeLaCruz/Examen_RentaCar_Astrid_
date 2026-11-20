@@ -74,10 +74,10 @@ El sistema incluye las siguientes validaciones:
 ## Capturas de pantalla
 
 ### Datos del alquiler
-![Carlos Mendez](Capturas/Carlos%20Mendez.png)
+![Cliente](Capturass/Cliente.png)
 
 ### Nuevo alquiler
-![Nuevo alquiler](Capturas/nuevo%20alquiler.png)
+![NuevoAlquiler](Capturass/NuevoAlquiler.png)
 
 ### Salir del sistema
-![Salir](Capturas/salir.png)
+![Salir](Capturass/Salir.png)
